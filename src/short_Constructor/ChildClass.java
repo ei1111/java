@@ -1,4 +1,4 @@
-package pjtTest_13;
+package short_Constructor;
 
 public class ChildClass {
 	String name;

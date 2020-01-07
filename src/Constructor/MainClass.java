@@ -1,4 +1,4 @@
-package pjtTest;
+package Constructor;
 
 public class MainClass {
 	public static void main(String[] args) {

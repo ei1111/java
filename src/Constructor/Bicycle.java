@@ -1,4 +1,4 @@
-package pjtTest;
+package Constructor;
 
 public class Bicycle {// 클래스 이름 첫글자는 대문자
 	String color;
